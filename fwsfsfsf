@@ -4492,7 +4492,7 @@ function library:init()
             text = {
                 {"Auxilium.wtf", true},
                 {"V"..getgenv().Config.Version, true},
-                {getgenv().luaguardvars.DiscordName, true},
+                {"Auxilium.wtf", true},
                 {'0 fps', true},
                 {'0ms', true},
             };
